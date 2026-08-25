@@ -7,24 +7,23 @@ body:
     attributes:
       value: |
 
-        Thanks for creating a report! The issue has entered the triage (open) process. That means the issue will wait in this status until the FreePBX team has an opportunity to review the issue. Our weekly triage meetings happen every Monday. Once the issue has been reviewed you may receive comments regarding the next steps towards resolution.
+        Thanks for making a report! The issue has entered the triage (open) process. That means the issue will wait in this status until the FreePBX team has an opportunity to review the issue. Once the issue has been reviewed you may receive comments regarding the next steps towards resolution.
 
         A good first step is for you to review the [FreePBX Issue Guidelines](https://sangomakb.atlassian.net/wiki/spaces/FP/pages/10355381/FreePBX+Ticket+Reporting) if you haven't already. The guidelines detail what is expected from the FreePBX issue report.
 
         Then, if you are submitting a patch, please review the Patch Contribution Process.
 
-        Please note that by submitting data, code, or documentation to Sangoma through GitHub, you accept the Terms of Use present at
-        https://www.asterisk.org/terms-of-use/.
-        Thanks for taking the time to fill out this bug report!
+        Please note that by submitting data, code, or documentation to Sangoma through GitHub, you accept the Terms of Use present at [FreePBX.org](https://www.freepbx.org/) and [Sangoma.com/legal](https://www.sangoma.com/legal).
 
+        Thanks for taking the time to fill out this improvement report!
   - type: dropdown
     id: fpbxver
     attributes:
       label: FreePBX Version
       options:
-        - FreePBX 16
+        - FreePBX 18
         - FreePBX 17
-        - FreePBX 15
+        - FreePBX 16
     validations:
       required: true
 
