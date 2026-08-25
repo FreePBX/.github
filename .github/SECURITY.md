@@ -50,4 +50,5 @@ Sangoma at its full discretion may compensate reporters of a fully verified vuln
 
 ## Policy Updates
 
-This policy may be updated at any time with full history viewable on GitHub.
+This policy may be updated at any time with full history viewable on GitHub
+[here](https://github.com/FreePBX/.github/commits/master/.github/SECURITY.md).
